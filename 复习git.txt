@@ -1,0 +1,10 @@
+一：昨天学过哪些命令
+	安装过程：yum install git -y
+	创建一个git仓库  mkdir lerangit
+	git inint 创建一个TXT文本  vim 。TXT
+	git add 文件名
+	git commit -m “”标注信息
+	git diff 查看版本直接有什么不同
+	git status 查看有没有内容变化
+	git 只能对纯文本的文件进行很好的监控，不能对一些流文件很好的监控
+	可以监控它的变化但是不能定位到想相应的位置
