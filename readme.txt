@@ -1,2 +1,3 @@
-Git is a free distributted  software
-Git fslfslsis very good!
+Git is a free  software
+Git  very good!
+Git reset --hard headid就可以重新回到某一个世界
